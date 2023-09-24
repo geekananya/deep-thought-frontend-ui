@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/deep-thought-frontend-ui/static/css/main.7475cd7d.css",
+    "main.js": "/deep-thought-frontend-ui/static/js/main.ce9a2c0c.js",
+    "static/js/787.b755f208.chunk.js": "/deep-thought-frontend-ui/static/js/787.b755f208.chunk.js",
+    "static/media/yt-snapshot.png": "/deep-thought-frontend-ui/static/media/yt-snapshot.2b72fc0db98e1be8f6f6.png",
+    "static/media/logo.svg": "/deep-thought-frontend-ui/static/media/logo.58625fd5aa44ce26babd3eaad5296320.svg",
+    "static/media/group.svg": "/deep-thought-frontend-ui/static/media/group.296985e9339fdde6a7791040b10c3456.svg",
+    "static/media/bell.svg": "/deep-thought-frontend-ui/static/media/bell.11ed83a54c098c3b25d4a9346a03feca.svg",
+    "static/media/eclipse.svg": "/deep-thought-frontend-ui/static/media/eclipse.573c4b93732ec5dade945bd5584fdffc.svg",
+    "static/media/expand.svg": "/deep-thought-frontend-ui/static/media/expand.cbe276b57ba3e758e1599fac5a2d1620.svg",
+    "index.html": "/deep-thought-frontend-ui/index.html",
+    "static/media/arrow-expand.svg": "/deep-thought-frontend-ui/static/media/arrow-expand.6b8d417b6b829cfe846879672178ef46.svg",
+    "static/media/expand-up.svg": "/deep-thought-frontend-ui/static/media/expand-up.9104a7dc93dc02b14c545e0596adbe82.svg",
+    "static/media/arrow-curve-left.svg": "/deep-thought-frontend-ui/static/media/arrow-curve-left.f3b724bb1850e04a12bf387bcf091a7d.svg",
+    "static/media/arrow-curve-right.svg": "/deep-thought-frontend-ui/static/media/arrow-curve-right.387e7edbc23b295ed407d11a00a28371.svg",
+    "static/media/plus.svg": "/deep-thought-frontend-ui/static/media/plus.2406ba152ede678d652bc5ce6031d006.svg",
+    "static/media/expand-down.svg": "/deep-thought-frontend-ui/static/media/expand-down.49b706f6c28e8a75467bccada8ea4137.svg",
+    "main.7475cd7d.css.map": "/deep-thought-frontend-ui/static/css/main.7475cd7d.css.map",
+    "main.ce9a2c0c.js.map": "/deep-thought-frontend-ui/static/js/main.ce9a2c0c.js.map",
+    "787.b755f208.chunk.js.map": "/deep-thought-frontend-ui/static/js/787.b755f208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7475cd7d.css",
+    "static/js/main.ce9a2c0c.js"
+  ]
+}
