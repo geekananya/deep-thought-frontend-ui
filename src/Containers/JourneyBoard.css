@@ -1,0 +1,55 @@
+.head{
+    /* position: absolute;
+    left: 0;
+    top: 0; */
+    height: 50px;
+    text-align: left;
+    background-color: black;
+    border-radius: 0px 15px 0 0;
+    color: white
+}
+.head-contract{
+    width: 132px;
+    transition-duration: 0.7s;
+}
+.head-expand{
+    width: 392px;
+    transition-duration: 0.7s;
+}
+.head-text{
+    margin:0;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.32px;
+    padding: 13px 0 13px 18px;
+}
+.jb{
+    position: absolute;
+    left: 0;
+    top: 90px;
+    margin:0 0;
+    height: 692px;
+    border-radius: 0px 20px 20px 20px;
+    background: #FDFDFD;
+    box-shadow: 0px -4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.jb-contract{
+    width: 132px;
+    transition-duration: 0.7s;
+}
+.jb-1{
+    margin: 26px 32px;
+    width: 68px;
+    height: 68px;
+    border-radius: 20px;
+    border: 1px solid #0029FF;
+}
+.jb-1 p{
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0 0;
+}
+.jb-expand{
+    width: 392px;
+    transition-duration: 0.7s;
+}
